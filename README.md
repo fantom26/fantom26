@@ -8,7 +8,6 @@
 - 🤓 I am constantly learning new things
 - 💪 I like to workout at the gym
 - 💻 1+ Years Experience in Front-end Development
-
 <br />
 
 ### 💻 Stack:
@@ -35,4 +34,4 @@
 
 ### 🤝 Connect with me:
 
-<img align="left" alt="Styled-components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />: https://t.me/KravtsovYehor
+<a href="https://t.me/KravtsovYehor"><img align="left" alt="Styled-components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
