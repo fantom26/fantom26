@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Yehor
 
-## I'm a FrontEnd Developer
+## I'm a front-end developer
 
 ### 🙋‍♂️ Facts about me:
 
-- 🏙️ I’m From Ukraine, Kharkiv
+- 🏙️ I’m from Ukraine, Nikopol
 - 🤓 I am constantly learning new things
 - 💪 I like to workout at the gym
 - 💻 1+ Years Experience in Front-end Development
@@ -22,6 +22,8 @@
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Styled-components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
 
+<br />
+
 ### 🛠 Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -29,7 +31,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
+<br />
+
 ### 🤝 Connect with me:
 
-[<img align="left" alt="yehorkravtsov | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]: https://t.me/KravtsovYehor
-[<img align="left" alt="yehorkravtsov | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]: mailto:kravtsovyehor@gmail.com
+[telegram]: https://t.me/KravtsovYehor
+[gmail]: mailto:kravtsovyehor@gmail.com
