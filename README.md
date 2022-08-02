@@ -9,6 +9,7 @@
 - 💪 I like to workout at the gym
 - 💻 1+ Years Experience in Front-end Development
   <br />
+  <br />
 
 ### 💻 Stack:
 
@@ -22,6 +23,7 @@
 <img align="left" alt="Styled-components" width="40px" src="https://www.styled-components.com/atom.png" />
 
 <br />
+<br />
 
 ### 🛠 Tools:
 
@@ -32,7 +34,9 @@
 <img align="left" alt="Ubuntu" width="40px" src="https://img.icons8.com/color/344/ubuntu--v1.png" />
 
 <br />
+<br />
 
 ### 🤝 Connect with me:
 
-<a href="https://t.me/KravtsovYehor"><img align="left" alt="Styled-components" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
+<a href="https://t.me/KravtsovYehor"><img align="left" alt="Telegram" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
+<a href="mailto:kravtsovyehor@gmail.com"><img align="left" alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" /></a>
