@@ -17,7 +17,6 @@
 <img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/344/css3.png" />
 <img align="left" alt="Sass" width="40px" src="https://img.icons8.com/color/344/sass.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/344/javascript--v1.png" />
-// <img align="left" alt="Typescript" width="40px" src="https://img.icons8.com/fluency/344/typescript.png" />
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/344/react-native.png" />
 <img align="left" alt="Redux" width="40px" src="https://img.icons8.com/color/344/redux.png" />
 <img align="left" alt="Styled-components" width="40px" src="https://www.styled-components.com/atom.png" />
