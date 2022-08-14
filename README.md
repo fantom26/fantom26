@@ -5,8 +5,8 @@
 ### 🙋‍♂️ Facts about me:
 
 - 🏙️ I’m from Ukraine, Nikopol
-- 🤓 I am constantly learning new things
-- 💪 I like to workout at the gym
+- 🤓 I'm constantly learning new things
+- 💪 I enjoy to workout at the gym
 - 💻 1+ Years Experience in Front-end Development
   <br />
   <br />
