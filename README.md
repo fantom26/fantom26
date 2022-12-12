@@ -4,10 +4,10 @@
 
 ### 🙋‍♂️ Facts about me:
 
-- 🏙️ I’m from Ukraine, Nikopol
+- 🏙️ I’m from Ukraine, Kiev
 - 🤓 I'm constantly learning new things
 - 💪 I enjoy to workout at the gym
-- 💻 1+ Years Experience in Front-end Development
+- 💻 2+ Years Experience in Front-end Development
   <br />
   <br />
 
