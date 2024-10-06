@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a full stack developer...
 
-## 🛠 Skills
+## 🛠 Languages and Tools
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
