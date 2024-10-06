@@ -39,4 +39,4 @@ I'm a full stack developer...
 
 ## 🏆 Awards and Achievements
 
-![Codewars](https://github.r2v.ch/codewars?user=kravtsovyehor&hide_clan=true&theme=gradient_dark_by_level)
+![Codewars](https://github.r2v.ch/codewars?user=kravtsovyehor&hide_clan=true&theme=gradient_midnight_puple_by_level)
