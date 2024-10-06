@@ -37,6 +37,6 @@ I'm a full stack developer...
   <a href="https://t.me/kravtsovyehor"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
 </div>
 
-## Awards and Achievements
+## 🏆 Awards and Achievements
 
 ![Codewars](https://github.r2v.ch/codewars?user=kravtsovyehor&hide_clan=true&theme=gradient_dark_by_level)
