@@ -36,3 +36,7 @@ I'm a full stack developer...
   <a href="https://wa.me/34641320996"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
   <a href="https://t.me/kravtsovyehor"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
 </div>
+
+## Awards and Achievements
+
+![Codewars](https://github.r2v.ch/codewars?user=kravtsovyehor&stroke=%23BB432C&hide_clan=true&top_languages=true)
