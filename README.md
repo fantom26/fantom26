@@ -3,7 +3,7 @@
 
 # Hi there 👋 I'm Yehor, a Frontend Developer
 
-I’ve been working as a frontend engineer since 2021 using React & TypeScript. My experience includes successfully delivering over 10 projects from concept to production, as well as migrating an existing project from Angular 14 to React 18.
+I’ve been working as a frontend engineer since 2020 using React & TypeScript. My experience includes successfully delivering over 10 projects from concept to production, as well as migrating an existing project from Angular 14 to React 18.
 
 I thrive in rapid iteration environments and maintain a strong focus on user experience in all the projects I develop. Additionally, I enjoy mentoring junior developers and helping them grow their skills and confidence in the field.
 
