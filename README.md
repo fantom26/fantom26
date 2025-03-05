@@ -1,5 +1,5 @@
 
-![Logo](https://media.licdn.com/dms/image/v2/D4D16AQHMpUjUlKXY9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675076582974?e=1733961600&v=beta&t=d21WY-srQW16B8orvwG1qy-R9l2nDG2AX4UoCTnH46E)
+![Logo](https://media.licdn.com/dms/image/v2/D4D16AQHMpUjUlKXY9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675076582974?e=1746662400&v=beta&t=QxUjR_BN2j3D9Dgvq6jfOIqSF9EMBfbuH0lrGUpK8mE)
 
 # Hi there 👋 I'm Yehor, a Frontend Developer
 
