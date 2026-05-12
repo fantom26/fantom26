@@ -1,48 +1,43 @@
 
-![Logo](https://media.licdn.com/dms/image/v2/D4D16AQHMpUjUlKXY9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675076582974?e=1746662400&v=beta&t=QxUjR_BN2j3D9Dgvq6jfOIqSF9EMBfbuH0lrGUpK8mE)
+![Logo](https://media.licdn.com/dms/image/v2/D4E16AQE3qC_3juaD7w/profile-displaybackgroundimage-shrink_350_1400/B4EZunEqynMEAY-/0/1768034578014?e=1779926400&v=beta&t=WN5bid1xSoNGgFIHPKfoofEYAwxxOsMj1YGGbFOiuPE)
 
-# Hi there 👋 I'm Yehor, a Frontend Developer
+# Hi, I'm Yehor 👋
 
-I’ve been working as a frontend engineer since 2020 using React & TypeScript. My experience includes successfully delivering over 10 projects from concept to production, as well as migrating an existing project from Angular 14 to React 18.
+Frontend engineer with 5+ years building complex B2B SaaS products. I specialise in UI architecture, design systems, and the kind of maintainability work that tends to get skipped — but shouldn't.
 
-I thrive in rapid iteration environments and maintain a strong focus on user experience in all the projects I develop. Additionally, I enjoy mentoring junior developers and helping them grow their skills and confidence in the field.
+Most recently at SpendHQ — a B2B procurement analytics SaaS — where I focused on frontend architecture, Vue 2 → 3 migration, and design system foundations.
 
-I am always eager to tackle new challenges and learn new programming languages, with a particular affinity for React.
+Currently open to new opportunities across Europe (remote).
 
-In my free time, I enjoy solving coding katas and playing chess, both of which sharpen my problem-solving skills and strategic thinking.
+---
 
-## 🛠 Languages and Tools
+## 🛠 Stack
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white" alt="SWR" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/i18n-26A69A?style=for-the-badge&logo=i18n&logoColor=white" alt="i18n" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="WebStorm" />
-  <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams" />
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG--Grid-FF6B35?style=for-the-badge&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🔗  Let's connect and build the future together!
+---
 
-<div style="display: flex; gap: 10px; text-decoration: 'none'">
-  <a href="https://www.linkedin.com/in/kravtsovyehor/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:kravtsovyehor@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://wa.me/34641320996"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
-  <a href="https://t.me/kravtsovyehor"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
-</div>
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kravtsovyehor/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kravtsovyehor@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kravtsovyehor)
 
 ## 🏆 Awards and Achievements
 
