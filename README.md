@@ -1,13 +1,16 @@
 
-![Logo](https://media.licdn.com/dms/image/v2/D4E16AQE3qC_3juaD7w/profile-displaybackgroundimage-shrink_350_1400/B4EZunEqynMEAY-/0/1768034578014?e=1779926400&v=beta&t=WN5bid1xSoNGgFIHPKfoofEYAwxxOsMj1YGGbFOiuPE)
+![Logo](https://media.licdn.com/dms/image/v2/D4D16AQHTBEa-lHexkw/profile-displaybackgroundimage-shrink_350_1400/B4DZ9MIzOYGYAU-/0/1783688803520?e=1785974400&v=beta&t=CQFdSc1WKQSQfulp-ihylJmk-mxm-TQnoSrWCqGytX0)
+
 
 # Hi, I'm Yehor 👋
 
-Frontend engineer with 5+ years building complex B2B SaaS products. I specialise in UI architecture, design systems, and the kind of maintainability work that tends to get skipped — but shouldn't.
+I build and maintain complex frontend systems — the kind that need to scale without falling apart. 
 
-Most recently at SpendHQ — a B2B procurement analytics SaaS — where I focused on frontend architecture, Vue 2 → 3 migration, and design system foundations.
+5 years in, mostly in B2B SaaS. My focus: UI architecture, component standardisation, and migrations in large legacy codebases. Led a complete Angular → React migration and contributed to an ongoing Vue 2 → 3 modernisation, removing over 10,000 lines of obsolete code along the way. 
 
-Currently open to new opportunities across Europe (remote).
+Current stack: Vue.js, React, TypeScript, Next.js. Strong opinions on design systems. Good at inheriting messy codebases and making them easier for the next engineer. 
+
+Based in Valencia, Spain. Open to remote roles across Europe and on-site/hybrid in Valencia.
 
 ---
 
