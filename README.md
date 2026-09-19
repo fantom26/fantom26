@@ -1,16 +1,21 @@
-
-![Logo](https://media.licdn.com/dms/image/v2/D4D16AQHTBEa-lHexkw/profile-displaybackgroundimage-shrink_350_1400/B4DZ9MIzOYGYAU-/0/1783688803520?e=1785974400&v=beta&t=CQFdSc1WKQSQfulp-ihylJmk-mxm-TQnoSrWCqGytX0)
-
-
 # Hi, I'm Yehor 👋
 
 I build and maintain complex frontend systems — the kind that need to scale without falling apart. 
 
-5 years in, mostly in B2B SaaS. My focus: UI architecture, component standardisation, and migrations in large legacy codebases. Led a complete Angular → React migration and contributed to an ongoing Vue 2 → 3 modernisation, removing over 10,000 lines of obsolete code along the way. 
+Frontend engineer with 5+ years in B2B SaaS and complex product UIs. I take on the work most people avoid: I migrated a live, customer-facing app from Angular to React single-handedly, without pausing a single feature release.  
 
-Current stack: Vue.js, React, TypeScript, Next.js. Strong opinions on design systems. Good at inheriting messy codebases and making them easier for the next engineer. 
+That's how I work. I own the hard, high-risk parts of a frontend and make them boring. Stable, scalable, and easy for the next engineer to change.  
 
-Based in Valencia, Spain. Open to remote roles across Europe and on-site/hybrid in Valencia.
+A few things I've shipped:  
+- Led a migration of a customer portal (orders, deliveries, company services) from Angular 14 to React 18, keeping feature delivery uninterrupted. 
+- Built a product configurator from scratch in Next.js that cut sliding-system setup from ~1 hour to 7-8 minutes, letting customers self-serve instead of waiting on a manager. 
+- Standardised UI at scale: 35+ reusable components adopted across a team, plus a core Select component consolidated across 150+ usage points. 
+- Virtualised a data-heavy editable table so it went from stalling at ~200 rows to running smoothly at 3,000 (roughly 15x). 
+- Removed 10,000+ lines of dead code across modernisation work.  
+
+Current stack: React, TypeScript, Next.js and Vue (2/3), with Redux Toolkit, AG Grid, Storybook, and testing (Vitest, Playwright, Testing Library). I lean hard on design systems, mentor junior engineers, and set the shared standards a team builds on. I also work daily with AI-assisted tooling (Cursor, Claude Code) to move faster without cutting corners.  
+
+Based in Valencia. Open to senior frontend roles at product companies, remote across Europe or hybrid in Valencia.
 
 ---
 
